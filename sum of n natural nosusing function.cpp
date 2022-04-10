@@ -14,3 +14,4 @@ cin>>n;
 sumNaturaln(n);
 return 0;
 }
+//duyweygfywfwehfcomment added'
