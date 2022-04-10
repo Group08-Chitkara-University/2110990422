@@ -1,0 +1,4 @@
+fibonacci series
+fabinacci using functions
+sum of n natural numbers
+same using functions
